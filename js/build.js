@@ -1,0 +1,1 @@
+$(function(){var n=new ReptileForm("form");n.on("validationError",function(){}),n.on("xhrSuccess",function(){}),n.on("xhrError",function(){})});

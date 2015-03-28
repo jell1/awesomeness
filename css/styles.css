@@ -1,0 +1,7 @@
+div.kind {
+  border-radius: 5px;
+  background: -webkit-radial-gradient(red, blue);
+  background: radial-gradient(red, blue); }
+
+.foo.bar {
+  border-radius: 10px; }
